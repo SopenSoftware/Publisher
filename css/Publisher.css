@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+/**
+ * Sopen
+ * 
+ * @package     Publisher
+ * @license     http://www.gnu.org/licenses/agpl.html AGPL Version 3
+ * @author    	Hans-Jürgen Hartl
+ *
+ */
+
+
+ .PublisherIconCls {
+    background-image:url(../../images/oxygen/16x16/apps/book.png) !important;
+}
+.x-btn-medium .PublisherIconCls {
+    background-image:url(../../images/oxygen/22x22/apps/book.png) !important;
+}
+.x-btn-large .PublisherIconCls {
+    background-image:url(../../images/oxygen/32x32/apps/book.png) !important;
+}
+
+
+.PublisherMainGridStatus {
+    width: 12px;
+	height: 12px;
+}
